@@ -1,0 +1,28 @@
+nav li {
+	       display: inline-block;
+	       list-style-type: none;
+	       padding-right: 10px;
+	   }
+a {
+	       text-decoration: none;
+	   }
+p{
+		   text-align:left;
+}
+h1{
+	text-align:center;
+	background-color:#ffe6e6;
+}
+h2{
+	background-color:darkgrey;
+	line-height:100%;
+	color:#FFFFFF;
+}
+footer{
+	text-align:center;
+	background-color: #ffe6e6;
+}
+.center{
+	text-align:center;
+	background-color:#ffe6e6;
+}
